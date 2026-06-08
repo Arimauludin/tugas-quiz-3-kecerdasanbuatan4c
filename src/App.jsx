@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navbar from './components/Navbar';
 import SidebarControls from './components/SidebarControls';
 import VisualizerChart from './components/VisualizerChart';
-import ComparisonTable from "./components/comparisonTable";
+import ComparisonTable from "./components/ComparisonTables";
 
 // Komponen Detektor Error agar aplikasi tetap aman
 function DetektorError({ children }) {
